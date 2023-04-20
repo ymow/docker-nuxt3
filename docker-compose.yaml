@@ -12,4 +12,4 @@ services:
     # http://jdlm.info/articles/2016/03/06/lessons-building-node-app-docker.html
     - /app/node_modules
     ports:
-      - "3000:3000"
+      - "8000:3000"
